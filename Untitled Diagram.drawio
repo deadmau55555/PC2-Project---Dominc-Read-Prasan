@@ -1,26 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T20:48:12.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="pLGKkUENuodM4qJ423YF" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T22:15:09.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="SQTzVxTp1H5xFor3Deo5" version="20.8.23" type="github">
   <diagram name="Page-1" id="r-zxOY5rzY7_ZMFZ65QF">
-    <mxGraphModel dx="645" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1301" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WHbsActgOW3zRtFnGw57-18" value="English" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="280" width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="WHbsActgOW3zRtFnGw57-19" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WHbsActgOW3zRtFnGw57-18">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WHbsActgOW3zRtFnGw57-20" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WHbsActgOW3zRtFnGw57-18">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WHbsActgOW3zRtFnGw57-21" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WHbsActgOW3zRtFnGw57-18">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="WHbsActgOW3zRtFnGw57-32" value="Departments&lt;br&gt;&lt;br&gt;departmentName: String&lt;br&gt;departmentID: double&lt;br&gt;staff: String&lt;br&gt;teachers: String&lt;br&gt;dean: String" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="501" y="20" width="220" height="220" as="geometry" />
+          <mxGeometry x="340" y="30" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="WHbsActgOW3zRtFnGw57-33" value="Teachers" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="290" width="210" height="180" as="geometry">
+          <mxGeometry x="40" y="310" width="210" height="180" as="geometry">
             <mxRectangle x="270" y="300" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
