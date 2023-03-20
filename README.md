@@ -2,4 +2,5 @@
 Mini College GUI Application
 
 UML Class Diagrams:
-![Screenshot (685)](https://user-images.githubusercontent.com/121906577/225500591-add3ff3c-6641-4ba0-b3e7-66dccd60e31a.png)
+![Screenshot (690)](https://user-images.githubusercontent.com/121906577/226245427-1d6b9b16-e2c5-4976-8167-e6ced279e129.png)
+
