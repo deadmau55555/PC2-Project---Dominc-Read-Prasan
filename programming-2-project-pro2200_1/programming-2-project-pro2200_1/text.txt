@@ -1,3 +1,0 @@
-1,james,smith,20,computer science
-2,mario,gomex,22,business
-3,george,smith,35,business
