@@ -1,0 +1,11 @@
+Documentation for ender user.
+
+User may get College https://github.com/deadmau55555/PC2-Project---Dominc-Read-Prasan
+
+The gui is in the form file 
+
+Once the file is running
+
+User may add teacher or staff information 
+
+information will be sent to the a text file. 
