@@ -9,5 +9,7 @@ UML Class Diagrams:
 ![Untitled Diagram](https://user-images.githubusercontent.com/121906577/227754021-a753bc0e-4880-4fcf-acb7-7fda14bf4b08.jpg)
 
 
+Tests:
 
+![Screenshot (723)](https://user-images.githubusercontent.com/121906577/227821528-e2c093f3-3841-4df0-86ec-8437859ede0d.png)
 
