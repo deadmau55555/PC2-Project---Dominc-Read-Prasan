@@ -45,6 +45,18 @@ public class Staff2 extends Person {
         this.workload = workload;
     }
 
+ public String getDuty() {
+        return duties;
+    }
+
+    public int getWorkload() {
+        return workload;
+    }
+
+    @Override
+    public String getCategory() {
+        return "Staff";
+    }
 
 
 
@@ -66,10 +78,7 @@ public class Staff2 extends Person {
                 Objects.equals(duties, staff.duties);
   }
 
-    @Override
-    public String getCategory() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
+  
 
 
  }

@@ -4,10 +4,11 @@
  */
 package com.prog2.main;
 
-import org.junit.jupiter.api.AfterEach;
+/**import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.BeforeAll;
+**/
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -17,7 +18,7 @@ import static org.junit.jupiter.api.Assertions.*;
  */
 public class StaffTest {
     
-    public StaffTest() {
+/**    public StaffTest() {
     }
     
     @BeforeAll
@@ -43,7 +44,7 @@ public class StaffTest {
     public void testGet() {
         System.out.println("get");
         int i = 0;
-        Object expResult = null;
+        Object expResult = "";
         Object result = Staff2.get(i);
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
@@ -82,7 +83,7 @@ public class StaffTest {
     @Test
     public void testEquals() {
         System.out.println("equals");
-        Object obj = null;
+        Object obj = "";
         Staff2 instance = null;
         boolean expResult = false;
         boolean result = instance.equals(obj);
